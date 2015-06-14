@@ -28,10 +28,3 @@ Objective: perform an analytic model on the data.  Your team will mine the data 
 
 Objective: visualize the data.  The data has been analyzed -- now tell the story.  What better way to tell the story than with a beautiful dashboard.
 
-## Final Project
-
-More to come...
-
-## Big Data Recipe
-
-More to come...
